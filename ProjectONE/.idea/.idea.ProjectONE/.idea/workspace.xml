@@ -13,12 +13,18 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/ProjectOneYay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scenes/ProjectOneYay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Variables.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/FloatData.cs" />
       </list>
     </option>
   </component>
@@ -72,6 +78,11 @@
       <workItem from="1566941473584" duration="600000" />
       <workItem from="1567111778833" duration="2234000" />
       <workItem from="1567114936214" duration="5000" />
+      <workItem from="1567542797993" duration="1226000" />
+      <workItem from="1567544108658" duration="1317000" />
+      <workItem from="1568147888125" duration="3000" />
+      <workItem from="1568147903190" duration="29000" />
+      <workItem from="1568147953905" duration="3145000" />
     </task>
     <servers />
   </component>
