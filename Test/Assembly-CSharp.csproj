@@ -63,8 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\letsseewhatthetraildoes.cs" />
-    <Compile Include="Assets\movent.cs" />
-    <Compile Include="Assets\wowieletsProgram.cs" />
+    <Compile Include="Assets\Trigger.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Lindsey Burker/Desktop/GitKrakenStuff/first/Test/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
