@@ -13,9 +13,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/ProjectOneYay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Mouseevent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -25,6 +29,10 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/Variables.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/DogClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/CatClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/ParticleControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Mouseevent.cs" />
       </list>
     </option>
   </component>
@@ -83,6 +91,11 @@
       <workItem from="1568147888125" duration="3000" />
       <workItem from="1568147903190" duration="29000" />
       <workItem from="1568147953905" duration="3145000" />
+      <workItem from="1568321353613" duration="302000" />
+      <workItem from="1568322289701" duration="74000" />
+      <workItem from="1568323564466" duration="342000" />
+      <workItem from="1568324067532" duration="34000" />
+      <workItem from="1568324638473" duration="113000" />
     </task>
     <servers />
   </component>
