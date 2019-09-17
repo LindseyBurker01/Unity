@@ -12,6 +12,7 @@
           <e p="DogClass.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="Mouseevent.cs" t="Include" />
+          <e p="Movement.cs" t="Include" />
           <e p="ParticleControl.cs" t="Include" />
           <e p="ProjectOneYay.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />

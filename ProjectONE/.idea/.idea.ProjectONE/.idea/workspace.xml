@@ -21,6 +21,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scenes/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/Movement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,6 +34,7 @@
         <option value="$PROJECT_DIR$/Assets/Scenes/CatClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/ParticleControl.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/Mouseevent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Movement.cs" />
       </list>
     </option>
   </component>
@@ -97,6 +99,8 @@
       <workItem from="1568324067532" duration="34000" />
       <workItem from="1568324638473" duration="113000" />
       <workItem from="1568324841773" duration="328000" />
+      <workItem from="1568753078396" duration="196000" />
+      <workItem from="1568753301590" duration="4029000" />
     </task>
     <servers />
   </component>

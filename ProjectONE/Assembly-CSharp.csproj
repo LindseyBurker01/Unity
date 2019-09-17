@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scenes\DogClass.cs" />
     <Compile Include="Assets\Scenes\FloatData.cs" />
     <Compile Include="Assets\Scenes\Mouseevent.cs" />
+    <Compile Include="Assets\Scenes\Movement.cs" />
     <Compile Include="Assets\Scenes\ParticleControl.cs" />
     <Compile Include="Assets\Scenes\ProjectOneYay.cs" />
     <Compile Include="Assets\Scenes\TriggerEvents.cs" />
