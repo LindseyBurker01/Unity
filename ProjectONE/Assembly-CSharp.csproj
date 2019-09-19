@@ -66,15 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\firstClass.cs" />
-    <Compile Include="Assets\Scenes\CatClass.cs" />
-    <Compile Include="Assets\Scenes\DogClass.cs" />
-    <Compile Include="Assets\Scenes\FloatData.cs" />
-    <Compile Include="Assets\Scenes\Mouseevent.cs" />
-    <Compile Include="Assets\Scenes\Movement.cs" />
-    <Compile Include="Assets\Scenes\ParticleControl.cs" />
-    <Compile Include="Assets\Scenes\ProjectOneYay.cs" />
-    <Compile Include="Assets\Scenes\TriggerEvents.cs" />
-    <Compile Include="Assets\Scenes\Variables.cs" />
+    <Compile Include="Assets\scences\Movement.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10838835/Downloads/first/ProjectONE/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
