@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\letsseewhatthetraildoes.cs" />
+    <Compile Include="Assets\Scenes\Movement.cs" />
     <Compile Include="Assets\Trigger.cs" />
     <Compile Include="Assets\TriggerClickEvent.cs" />
     <Reference Include="Unity.Timeline.Editor">
