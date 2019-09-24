@@ -66,7 +66,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\firstClass.cs" />
+    <Compile Include="Assets\scences\IfElseBool.cs" />
+    <Compile Include="Assets\scences\IfStatements.cs" />
     <Compile Include="Assets\scences\Movement.cs" />
+    <Compile Include="Assets\Script\Forces.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10838835/Downloads/first/ProjectONE/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

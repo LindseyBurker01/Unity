@@ -5,6 +5,7 @@ using UnityEngine;
 [RequireComponent(typeof(CharacterController))]
 public class Movement : MonoBehaviour
 {
+    // This Code is Character Movement
     private Vector3 position;
     private CharacterController controller;
     
