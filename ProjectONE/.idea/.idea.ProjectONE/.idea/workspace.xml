@@ -12,11 +12,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/scences/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scences/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/scences/IfElseBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Functions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -35,6 +34,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/Forces.cs" />
         <option value="$PROJECT_DIR$/Assets/scences/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/scences/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Functions.cs" />
       </list>
     </option>
   </component>
@@ -108,6 +108,7 @@
       <workItem from="1569357934036" duration="2973000" />
       <workItem from="1569361238501" duration="842000" />
       <workItem from="1569362106660" duration="177000" />
+      <workItem from="1569530952925" duration="3340000" />
     </task>
     <servers />
   </component>
