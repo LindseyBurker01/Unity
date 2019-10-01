@@ -13,9 +13,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/UITextControler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Functions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/IfElseBool.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -35,6 +40,10 @@
         <option value="$PROJECT_DIR$/Assets/scences/IfStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/scences/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Functions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/IntData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/UITextControler.cs" />
       </list>
     </option>
   </component>
@@ -109,6 +118,7 @@
       <workItem from="1569361238501" duration="842000" />
       <workItem from="1569362106660" duration="177000" />
       <workItem from="1569530952925" duration="3340000" />
+      <workItem from="1569962162409" duration="3555000" />
     </task>
     <servers />
   </component>

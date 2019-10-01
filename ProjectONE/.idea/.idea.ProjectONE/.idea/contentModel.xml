@@ -8,12 +8,15 @@
       <e p="Assets" t="Include">
         <e p="firstClass.cs" t="Include" />
         <e p="Script" t="Include">
+          <e p="FloatData.cs" t="Include" />
           <e p="Forces.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
           <e p="IfElseBool.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="TriggerEvent.cs" t="Include" />
+          <e p="UITextControler.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

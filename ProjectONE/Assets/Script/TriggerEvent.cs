@@ -6,20 +6,11 @@ using UnityEngine.Events;
 public class TriggerEvent : MonoBehaviour
 {
 
+    public UnityEvent Event;
     private void OnTriggerEnter(Collider other)
     {
-        TriggerEvent.print("Good Job!");
-    }
-
-    // Start is called before the first frame update
-    void Start()
-    {
+        Event.Invoke();
         
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }
