@@ -14,8 +14,10 @@
           <e p="IfElseBool.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="MonoEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="TriggerEvent.cs" t="Include" />
+          <e p="UIImageController.cs" t="Include" />
           <e p="UITextControler.cs" t="Include" />
         </e>
       </e>

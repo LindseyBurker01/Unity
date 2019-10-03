@@ -5,7 +5,6 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Text))]
 public class UITextControler : MonoBehaviour
 {
-    public UnityEvent startEvent;
     private Text txtLabel;
 
     public void UpdateText(IntData data)
@@ -13,10 +12,11 @@ public class UITextControler : MonoBehaviour
         //Text is a string, but IntData is an Int. We have to change Int to String
         txtLabel.text = data.value.ToString();
     }
-    void Start()
+    
+    //Awake runs before start
+    void Awake()
     {
         txtLabel = GetComponent<Text>();
-        startEvent.Invoke();
     }
 
 

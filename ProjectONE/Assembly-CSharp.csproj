@@ -72,8 +72,10 @@
     <Compile Include="Assets\Script\IfElseBool.cs" />
     <Compile Include="Assets\Script\IfStatements.cs" />
     <Compile Include="Assets\Script\IntData.cs" />
+    <Compile Include="Assets\Script\MonoEvents.cs" />
     <Compile Include="Assets\Script\Movement.cs" />
     <Compile Include="Assets\Script\TriggerEvent.cs" />
+    <Compile Include="Assets\Script\UIImageController.cs" />
     <Compile Include="Assets\Script\UITextControler.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10838835/Downloads/first/ProjectONE/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
