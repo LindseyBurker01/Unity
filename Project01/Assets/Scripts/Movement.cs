@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 [RequireComponent(typeof(CharacterController))]
 public class Movement : MonoBehaviour
@@ -10,12 +11,12 @@ public class Movement : MonoBehaviour
     public float moveSpeed = 10f, gravity = 3f, jumpSpeed = 50f;
 
     private int jumpCount, jumpCountMax = 1;
-    
+
     void Start()
     {
         controller = GetComponent<CharacterController>();
     }
-    
+
     void Update()
     {
         position.x = moveSpeed * Input.GetAxis("Horizontal");
@@ -34,7 +35,7 @@ public class Movement : MonoBehaviour
         }
 
         controller.Move(position * Time.deltaTime);
-        //controller.minMoveDistance = 0;
+        //controller.minMoveDistance = 1;
     }
     
 }

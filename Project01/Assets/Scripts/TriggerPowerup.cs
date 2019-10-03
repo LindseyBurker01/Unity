@@ -8,10 +8,11 @@ using UnityEngine.Experimental.UIElements.StyleEnums;
 public class TriggerPowerup : MonoBehaviour
 {
     public float speed = 5f;
+    public UnityEvent Event;
     private void OnTriggerEnter(Collider other)
     {
         speed = increasespeed(5f);
-        throw new NotImplementedException();
+        Event.Invoke();
     }
 
     private float increasespeed(float multiplier)

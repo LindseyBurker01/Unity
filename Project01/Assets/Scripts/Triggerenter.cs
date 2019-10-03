@@ -8,20 +8,11 @@ using EventTrigger = UnityEngine.Analytics.EventTrigger;
 
 public class Triggerenter : MonoBehaviour
 {
+    public ParticleSystem particle;
+    public UnityEvent Event;
     private void OnTriggerEnter(Collider other)
     {
-        
-    }
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        particle.Emit(10);
+        Event.Invoke();
     }
 }
