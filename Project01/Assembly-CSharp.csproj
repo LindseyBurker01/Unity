@@ -65,6 +65,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Audio.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\Scripts\CharacterAbilities.cs" />
+    <Compile Include="Assets\Scripts\FloatData.cs" />
     <Compile Include="Assets\Scripts\Function.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Triggerenter.cs" />

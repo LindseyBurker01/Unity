@@ -9,6 +9,8 @@
         <e p="Scripts" t="Include">
           <e p="Audio.cs" t="Include" />
           <e p="CameraMovement.cs" t="Include" />
+          <e p="CharacterAbilities.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="Function.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="Triggerenter.cs" t="Include" />
