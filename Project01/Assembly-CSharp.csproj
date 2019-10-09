@@ -70,6 +70,7 @@
     <Compile Include="Assets\Scripts\Function.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Scripts\Triggerenter.cs" />
+    <Compile Include="Assets\Scripts\TriggerEvent.cs" />
     <Compile Include="Assets\Scripts\TriggerPowerup.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Lindsey Burker/Desktop/GitKrakenStuff/first/Project01/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
