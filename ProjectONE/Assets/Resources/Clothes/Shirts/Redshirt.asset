@@ -9,10 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a319a241cd122442930b94ba752c22d, type: 3}
-  m_Name: OrangeDiamond
+  m_Script: {fileID: 11500000, guid: 141a5410240f71f4c886502053de3798, type: 3}
+  m_Name: Redshirt
   m_EditorClassIdentifier: 
   sprite: {fileID: 0}
-  color: {r: 1, g: 0, b: 0, a: 1}
-  prefab: {fileID: 8079031809216422763, guid: e3f8614b910257d47b07e980bdac65db, type: 3}
-  weapon: {fileID: 11400000, guid: 8ad55d40b81075c4faca07345eaddd1a, type: 2}
+  color: {r: 0.8301887, g: 0.24531578, b: 0.16055535, a: 1}
+  prefab: {fileID: 0}

@@ -1,10 +1,15 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 [CreateAssetMenu]
 public class Playerdata : GameArtData
 {
-    public WeaponData weapon;
-    //So this is configuring characters, and all characters need a sprite, color, and gameobject
+    //Plaerdata is getting information from GameArtData
+    public FloatData health;
+    //List makes it so you can have multiple weapons
+    public List<WeaponData> weapons;
+    public ClothesData shirt;
+    public ClothesData pants;
 
     public void InstancePlayer()
     {

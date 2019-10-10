@@ -66,20 +66,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\firstClass.cs" />
-    <Compile Include="Assets\Script\FloatData.cs" />
+    <Compile Include="Assets\Script\DataScripts\ClothesData.cs" />
+    <Compile Include="Assets\Script\DataScripts\FloatData.cs" />
+    <Compile Include="Assets\Script\DataScripts\GameArtData.cs" />
+    <Compile Include="Assets\Script\DataScripts\IntData.cs" />
+    <Compile Include="Assets\Script\DataScripts\Playerdata.cs" />
+    <Compile Include="Assets\Script\DataScripts\WeaponData.cs" />
     <Compile Include="Assets\Script\Forces.cs" />
     <Compile Include="Assets\Script\Functions.cs" />
-    <Compile Include="Assets\Script\GameArtData.cs" />
     <Compile Include="Assets\Script\IfElseBool.cs" />
     <Compile Include="Assets\Script\IfStatements.cs" />
-    <Compile Include="Assets\Script\IntData.cs" />
     <Compile Include="Assets\Script\MonoEvents.cs" />
     <Compile Include="Assets\Script\Movement.cs" />
-    <Compile Include="Assets\Script\Playerdata.cs" />
     <Compile Include="Assets\Script\TriggerEvent.cs" />
     <Compile Include="Assets\Script\UIImageController.cs" />
     <Compile Include="Assets\Script\UITextControler.cs" />
-    <Compile Include="Assets\Script\WeaponData.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10838835/Downloads/first/ProjectONE/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

@@ -12,7 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5a319a241cd122442930b94ba752c22d, type: 3}
   m_Name: YellowSquare
   m_EditorClassIdentifier: 
-  sprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 23719ebc731b27a499edf1ea4a8562dd, type: 3}
   color: {r: 0.6603774, g: 0.64190304, b: 0.14017446, a: 1}
-  prefab: {fileID: 8079031809216422763, guid: e3f8614b910257d47b07e980bdac65db, type: 3}
-  weapon: {fileID: 11400000, guid: 39005c4dce12d7e479b119f37ca44144, type: 2}
+  prefab: {fileID: 3820176614294292934, guid: c5bc21654a6254848bc61a69a7a9534b, type: 3}
+  health: {fileID: 11400000, guid: 597fed21b869767479551805acf70005, type: 2}
+  weapons: []
+  shirt: {fileID: 0}
+  pants: {fileID: 0}
