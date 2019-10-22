@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -45,7 +46,6 @@
         <option value="$PROJECT_DIR$/Assets/scences/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/IntData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/healthvalue.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Functions.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/UITextControler.cs" />
@@ -54,10 +54,15 @@
         <option value="$PROJECT_DIR$/Assets/Script/Playerdata.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/GameArtData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/ClothesData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/DataScripts/CollectionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Collections/CollectionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Collections/GameArtCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/DataScripts/GameArtData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" />
       </list>
     </option>
   </component>
@@ -136,6 +141,7 @@
       <workItem from="1570135601766" duration="3987000" />
       <workItem from="1570568214077" duration="3084000" />
       <workItem from="1570739810596" duration="4343000" />
+      <workItem from="1571777824750" duration="3072000" />
     </task>
     <servers />
   </component>
