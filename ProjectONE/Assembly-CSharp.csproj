@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="Assets\firstClass.cs" />
     <Compile Include="Assets\Script\Collectionss\GameArtCollection.cs" />
+    <Compile Include="Assets\Script\Collectionss\Lists.cs" />
     <Compile Include="Assets\Script\DataScripts\ClothesData.cs" />
     <Compile Include="Assets\Script\DataScripts\FloatData.cs" />
     <Compile Include="Assets\Script\DataScripts\GameArtData.cs" />

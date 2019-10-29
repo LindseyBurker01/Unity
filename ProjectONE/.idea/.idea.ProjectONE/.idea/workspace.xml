@@ -19,6 +19,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
@@ -61,6 +62,7 @@
         <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collections/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collections/GameArtCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Collectionss/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" />
       </list>
@@ -142,6 +144,7 @@
       <workItem from="1570568214077" duration="3084000" />
       <workItem from="1570739810596" duration="4343000" />
       <workItem from="1571777824750" duration="3072000" />
+      <workItem from="1571949983088" duration="3786000" />
     </task>
     <servers />
   </component>

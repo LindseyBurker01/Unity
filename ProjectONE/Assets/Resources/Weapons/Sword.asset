@@ -15,5 +15,4 @@ MonoBehaviour:
   sprite: {fileID: 21300000, guid: 0e3d91f407423e247a2a59eb2d416316, type: 3}
   color: {r: 0.3490566, g: 0.31777322, b: 0.31777322, a: 1}
   prefab: {fileID: 0}
-  collected: 0
   weaponPower: 10
