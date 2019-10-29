@@ -12,10 +12,14 @@ public class TriggerEvent : MonoBehaviour
         GetComponent<Collider>().isTrigger = true;
     }
 
-    public UnityEvent Event;
+    public UnityEvent EventEnter, EventExit;
     private void OnTriggerEnter(Collider other)
     {
-        Event.Invoke();
+        EventEnter.Invoke();
     }
-    
+
+    private void OnTriggerExit(Collider other)
+    {
+        EventExit.Invoke();
+    }
 }

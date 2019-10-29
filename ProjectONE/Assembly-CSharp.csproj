@@ -74,12 +74,16 @@
     <Compile Include="Assets\Script\DataScripts\IntData.cs" />
     <Compile Include="Assets\Script\DataScripts\Playerdata.cs" />
     <Compile Include="Assets\Script\DataScripts\WeaponData.cs" />
+    <Compile Include="Assets\Script\Debugies\Debugger.cs" />
+    <Compile Include="Assets\Script\Debugies\DebuggerHandler.cs" />
+    <Compile Include="Assets\Script\EnumSwitch.cs" />
     <Compile Include="Assets\Script\Forces.cs" />
     <Compile Include="Assets\Script\Functions.cs" />
     <Compile Include="Assets\Script\IfElseBool.cs" />
     <Compile Include="Assets\Script\IfStatements.cs" />
     <Compile Include="Assets\Script\MonoEvents.cs" />
     <Compile Include="Assets\Script\Movement.cs" />
+    <Compile Include="Assets\Script\PlayerHandler.cs" />
     <Compile Include="Assets\Script\TriggerEvent.cs" />
     <Compile Include="Assets\Script\UIImageController.cs" />
     <Compile Include="Assets\Script\UITextControler.cs" />

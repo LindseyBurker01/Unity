@@ -12,9 +12,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/EnumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UITextControler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Debugies/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,7 +25,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Debugies/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/IfElseBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -57,14 +61,19 @@
         <option value="$PROJECT_DIR$/Assets/Script/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/ClothesData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/CollectionData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collections/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collections/GameArtCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collectionss/Lists.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/EnumSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Debugies/Debugger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Debugies/DebuggerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerHandler.cs" />
       </list>
     </option>
   </component>
@@ -145,6 +154,7 @@
       <workItem from="1570739810596" duration="4343000" />
       <workItem from="1571777824750" duration="3072000" />
       <workItem from="1571949983088" duration="3786000" />
+      <workItem from="1572381472513" duration="3398000" />
     </task>
     <servers />
   </component>
