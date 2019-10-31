@@ -8,6 +8,10 @@
       <e p="Assets" t="Include">
         <e p="firstClass.cs" t="Include" />
         <e p="Script" t="Include">
+          <e p="AI" t="Include">
+            <e p="AgentHandler.cs" t="Include" />
+            <e p="Movement3D.cs" t="Include" />
+          </e>
           <e p="Collectionss" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
             <e p="Lists.cs" t="Include" />
