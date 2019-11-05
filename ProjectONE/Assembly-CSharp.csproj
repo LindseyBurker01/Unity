@@ -66,19 +66,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\firstClass.cs" />
+    <Compile Include="Assets\Script\AI\AgentHandler.cs" />
+    <Compile Include="Assets\Script\AI\Movement3D.cs" />
     <Compile Include="Assets\Script\Collectionss\GameArtCollection.cs" />
+    <Compile Include="Assets\Script\Collectionss\Lists.cs" />
     <Compile Include="Assets\Script\DataScripts\ClothesData.cs" />
     <Compile Include="Assets\Script\DataScripts\FloatData.cs" />
     <Compile Include="Assets\Script\DataScripts\GameArtData.cs" />
     <Compile Include="Assets\Script\DataScripts\IntData.cs" />
     <Compile Include="Assets\Script\DataScripts\Playerdata.cs" />
     <Compile Include="Assets\Script\DataScripts\WeaponData.cs" />
+    <Compile Include="Assets\Script\Debugies\Debugger.cs" />
+    <Compile Include="Assets\Script\Debugies\DebuggerHandler.cs" />
+    <Compile Include="Assets\Script\EnumSwitch.cs" />
     <Compile Include="Assets\Script\Forces.cs" />
     <Compile Include="Assets\Script\Functions.cs" />
     <Compile Include="Assets\Script\IfElseBool.cs" />
     <Compile Include="Assets\Script\IfStatements.cs" />
     <Compile Include="Assets\Script\MonoEvents.cs" />
     <Compile Include="Assets\Script\Movement.cs" />
+    <Compile Include="Assets\Script\PlayerHandler.cs" />
     <Compile Include="Assets\Script\TriggerEvent.cs" />
     <Compile Include="Assets\Script\UIImageController.cs" />
     <Compile Include="Assets\Script\UITextControler.cs" />

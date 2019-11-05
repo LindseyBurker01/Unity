@@ -9,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 33f1a026e0334d04e9c699f182f45cfc, type: 3}
-  m_Name: New Collection Data
+  m_Script: {fileID: 11500000, guid: dac077eefaf466e4fa8b2a187d8da0fe, type: 3}
+  m_Name: Debuggs
   m_EditorClassIdentifier: 
-  collectionList: []
