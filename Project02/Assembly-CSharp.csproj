@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Data\Data.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\OnTrigger.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Lindsey Burker/Desktop/GitKrakenStuff/first/Project02/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

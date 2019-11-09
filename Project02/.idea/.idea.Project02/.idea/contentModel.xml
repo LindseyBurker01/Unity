@@ -11,6 +11,7 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="Movement.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
           <e p="OnTrigger.cs" t="Include" />
         </e>
       </e>

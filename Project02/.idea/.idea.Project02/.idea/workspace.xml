@@ -15,6 +15,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Movement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Data/Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -24,6 +25,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/OnTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Data.cs" />
         <option value="$PROJECT_DIR$/Assets/Data/Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
       </list>
     </option>
   </component>
@@ -77,6 +79,7 @@
       <workItem from="1572316333463" duration="1584000" />
       <workItem from="1572318510380" duration="285000" />
       <workItem from="1572931205286" duration="933000" />
+      <workItem from="1573276698620" duration="2052000" />
     </task>
     <servers />
   </component>
