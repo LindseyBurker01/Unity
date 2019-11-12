@@ -2417,7 +2417,7 @@ PrefabInstance:
         type: 3}
       propertyPath: EventEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 11400000, guid: eb3e68d3426b8cc46b16fe4af8041031,
+      objectReference: {fileID: 11400000, guid: 253220997b767bf42892358a2ff5818c,
         type: 2}
     - target: {fileID: 4737103624684937597, guid: 653aece57f880f443add89a988db87bb,
         type: 3}
