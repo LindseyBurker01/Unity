@@ -12,22 +12,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Vector3Data.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/EnumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/Script/CodeRoutines.cs" root0="FORCE_HIGHLIGHTING" />
+=======
+<<<<<<< Updated upstream
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AI/Movement3D.cs" root0="FORCE_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AIFoler/AINav.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+>>>>>>> Stashed changes
+>>>>>>> master
     <setting file="file://$PROJECT_DIR$/Assets/Script/UITextControler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/firstClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Debugies/Debugger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/MonoEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/ClothesData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/GameArtCollection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Debugies/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AI/AgentHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/IfElseBool.cs" root0="FORCE_HIGHLIGHTING" />
@@ -75,7 +86,19 @@
         <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PlayerHandler.cs" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Assets/Script/CodeRoutines.cs" />
+=======
+<<<<<<< Updated upstream
+        <option value="$PROJECT_DIR$/Assets/Script/AI/Movement3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AI/AgentHandler.cs" />
+=======
+        <option value="$PROJECT_DIR$/Assets/Script/AIFoler/vactorThreeData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Vector3Data.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AIFoler/AINav.cs" />
+>>>>>>> Stashed changes
+>>>>>>> master
       </list>
     </option>
   </component>
@@ -157,8 +180,18 @@
       <workItem from="1571777824750" duration="3072000" />
       <workItem from="1571949983088" duration="3786000" />
       <workItem from="1572381472513" duration="3398000" />
+<<<<<<< HEAD
       <workItem from="1573595031821" duration="3951000" />
       <workItem from="1573599155318" duration="3000" />
+=======
+<<<<<<< Updated upstream
+      <workItem from="1572555374070" duration="2250000" />
+      <workItem from="1572557898113" duration="59000" />
+      <workItem from="1572558103114" duration="243000" />
+=======
+      <workItem from="1572990854850" duration="3525000" />
+>>>>>>> Stashed changes
+>>>>>>> master
     </task>
     <servers />
   </component>
