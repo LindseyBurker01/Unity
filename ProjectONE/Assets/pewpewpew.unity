@@ -333,7 +333,7 @@ PrefabInstance:
         type: 3}
       propertyPath: EventEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 11400000, guid: eb3e68d3426b8cc46b16fe4af8041031,
+      objectReference: {fileID: 11400000, guid: 253220997b767bf42892358a2ff5818c,
         type: 2}
     - target: {fileID: 4737103624684937597, guid: 653aece57f880f443add89a988db87bb,
         type: 3}
@@ -559,7 +559,7 @@ PrefabInstance:
         type: 3}
       propertyPath: EventEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 11400000, guid: eb3e68d3426b8cc46b16fe4af8041031,
+      objectReference: {fileID: 11400000, guid: 253220997b767bf42892358a2ff5818c,
         type: 2}
     - target: {fileID: 4737103624684937597, guid: 653aece57f880f443add89a988db87bb,
         type: 3}
@@ -1178,7 +1178,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -36, y: -33}
+  m_AnchoredPosition: {x: -39, y: -33}
   m_SizeDelta: {x: 4.997, y: 2.855}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &959494859
@@ -1203,17 +1203,17 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 50
+    m_FontSize: 100
     m_FontStyle: 0
     m_BestFit: 1
-    m_MinSize: 10
-    m_MaxSize: 50
+    m_MinSize: 15
+    m_MaxSize: 100
     m_Alignment: 4
     m_AlignByGeometry: 1
-    m_RichText: 1
+    m_RichText: 0
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
-    m_LineSpacing: 2
+    m_LineSpacing: 0
   m_Text: 0
 --- !u!222 &959494860
 CanvasRenderer:
@@ -1884,7 +1884,7 @@ PrefabInstance:
         type: 3}
       propertyPath: EventEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 11400000, guid: eb3e68d3426b8cc46b16fe4af8041031,
+      objectReference: {fileID: 11400000, guid: 253220997b767bf42892358a2ff5818c,
         type: 2}
     - target: {fileID: 4737103624684937597, guid: 653aece57f880f443add89a988db87bb,
         type: 3}

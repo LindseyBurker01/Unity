@@ -16,9 +16,19 @@ MonoBehaviour:
   color: {r: 0.20621115, g: 0.8113208, b: 0.17221434, a: 1}
   prefab: {fileID: 3820176614294292934, guid: c5bc21654a6254848bc61a69a7a9534b, type: 3}
   health: {fileID: 11400000, guid: 597fed21b869767479551805acf70005, type: 2}
+  onRunEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   weapons:
   - {fileID: 11400000, guid: bd4ba524ff4b9d7419f3fecb9361f380, type: 2}
-  - {fileID: 11400000, guid: 39005c4dce12d7e479b119f37ca44144, type: 2}
+  - {fileID: 0}
   - {fileID: 11400000, guid: 8ad55d40b81075c4faca07345eaddd1a, type: 2}
   shirt: {fileID: 0}
   pants: {fileID: 0}
+  Run:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
