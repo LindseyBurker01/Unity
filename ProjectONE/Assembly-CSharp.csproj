@@ -66,9 +66,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\firstClass.cs" />
+<<<<<<< HEAD
+    <Compile Include="Assets\Script\CodeRoutines.cs" />
+=======
     <Compile Include="Assets\Script\AI\AgentHandler.cs" />
     <Compile Include="Assets\Script\AI\Movement3D.cs" />
     <Compile Include="Assets\Script\AIFoler\AINav.cs" />
+>>>>>>> master
     <Compile Include="Assets\Script\Collectionss\GameArtCollection.cs" />
     <Compile Include="Assets\Script\Collectionss\Lists.cs" />
     <Compile Include="Assets\Script\DataScripts\ClothesData.cs" />
