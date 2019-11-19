@@ -6,6 +6,9 @@
     <e p="C:\Users\10838835\Downloads\first\ProjectONE" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Animation" t="Include">
+          <e p="ButtonInput.cs" t="Include" />
+        </e>
         <e p="firstClass.cs" t="Include" />
         <e p="Script" t="Include">
           <e p="AI" t="Include">
