@@ -65,7 +65,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Animation\ButtonInput.cs" />
     <Compile Include="Assets\firstClass.cs" />
+    <Compile Include="Assets\Script\AI\AgentHandler.cs" />
+    <Compile Include="Assets\Script\AI\Movement3D.cs" />
+    <Compile Include="Assets\Script\AIFoler\AINav.cs" />
+    <Compile Include="Assets\Script\CodeRoutineScritps\CodeRoutineClass.cs" />
+    <Compile Include="Assets\Script\CodeRoutineScritps\CodeRoutines.cs" />
     <Compile Include="Assets\Script\Collectionss\GameArtCollection.cs" />
     <Compile Include="Assets\Script\Collectionss\Lists.cs" />
     <Compile Include="Assets\Script\DataScripts\ClothesData.cs" />
@@ -73,6 +79,7 @@
     <Compile Include="Assets\Script\DataScripts\GameArtData.cs" />
     <Compile Include="Assets\Script\DataScripts\IntData.cs" />
     <Compile Include="Assets\Script\DataScripts\Playerdata.cs" />
+    <Compile Include="Assets\Script\DataScripts\vactorThreeData.cs" />
     <Compile Include="Assets\Script\DataScripts\WeaponData.cs" />
     <Compile Include="Assets\Script\Debugies\Debugger.cs" />
     <Compile Include="Assets\Script\Debugies\DebuggerHandler.cs" />
@@ -85,11 +92,13 @@
     <Compile Include="Assets\Script\IfElseBool.cs" />
     <Compile Include="Assets\Script\IfStatements.cs" />
     <Compile Include="Assets\Script\MonoEvents.cs" />
+    <Compile Include="Assets\Script\MouseEvents.cs" />
     <Compile Include="Assets\Script\Movement.cs" />
     <Compile Include="Assets\Script\PlayerHandler.cs" />
     <Compile Include="Assets\Script\TriggerEvent.cs" />
     <Compile Include="Assets\Script\UIImageController.cs" />
     <Compile Include="Assets\Script\UITextControler.cs" />
+    <Compile Include="Assets\Script\Vector3Data.cs" />
     <Compile Include="Assets\StatesBehavior.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/10838835/Downloads/first/ProjectONE/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
