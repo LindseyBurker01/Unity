@@ -24,13 +24,17 @@
     <setting file="file://$PROJECT_DIR$/Assets/Script/Collectionss/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Forces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/WeaponData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Folder/ButtonInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Debugies/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StatesBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/IfElseBool.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Script/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,6 +78,10 @@
         <option value="$PROJECT_DIR$/Assets/Script/TriggerEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/DataScripts/Playerdata.cs" />
         <option value="$PROJECT_DIR$/Assets/Script/PlayerHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Folder/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/StatesBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/GameActionHandler.cs" />
       </list>
     </option>
   </component>
@@ -155,6 +163,7 @@
       <workItem from="1571777824750" duration="3072000" />
       <workItem from="1571949983088" duration="3786000" />
       <workItem from="1572381472513" duration="3398000" />
+      <workItem from="1574373563240" duration="2573000" />
     </task>
     <servers />
   </component>
