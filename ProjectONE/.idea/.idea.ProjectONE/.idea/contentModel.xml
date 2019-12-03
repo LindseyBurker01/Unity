@@ -6,9 +6,22 @@
     <e p="C:\Users\10838835\Downloads\first\ProjectONE" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Animation" t="Include">
+          <e p="ButtonInput.cs" t="Include" />
+        </e>
         <e p="firstClass.cs" t="Include" />
         <e p="Script" t="Include">
-          <e p="ApplyForce.cs" t="Include" />
+          <e p="AI" t="Include">
+            <e p="AgentHandler.cs" t="Include" />
+            <e p="Movement3D.cs" t="Include" />
+          </e>
+          <e p="AIFoler" t="Include">
+            <e p="AINav.cs" t="Include" />
+          </e>
+          <e p="CodeRoutineScritps" t="Include">
+            <e p="CodeRoutineClass.cs" t="Include" />
+            <e p="CodeRoutines.cs" t="Include" />
+          </e>
           <e p="Collectionss" t="Include">
             <e p="GameArtCollection.cs" t="Include" />
             <e p="Lists.cs" t="Include" />
@@ -19,6 +32,7 @@
             <e p="GameArtData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
             <e p="Playerdata.cs" t="Include" />
+            <e p="vactorThreeData.cs" t="Include" />
             <e p="WeaponData.cs" t="Include" />
           </e>
           <e p="Debugies" t="Include">
@@ -26,21 +40,22 @@
             <e p="DebuggerHandler.cs" t="Include" />
           </e>
           <e p="EnumSwitch.cs" t="Include" />
-          <e p="FireWeaponsScript.cs" t="Include" />
-          <e p="Flip.cs" t="Include" />
           <e p="Forces.cs" t="Include" />
           <e p="Functions.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
+          <e p="GameActionHandler.cs" t="Include" />
           <e p="IfElseBool.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
+          <e p="MouseEvents.cs" t="Include" />
           <e p="Movement.cs" t="Include" />
           <e p="PlayerHandler.cs" t="Include" />
           <e p="SelfDestruct.cs" t="Include" />
           <e p="TriggerEvent.cs" t="Include" />
           <e p="UIImageController.cs" t="Include" />
           <e p="UITextControler.cs" t="Include" />
-          <e p="Vector3data.cs" t="Include" />
         </e>
+        <e p="StatesBehavior.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
