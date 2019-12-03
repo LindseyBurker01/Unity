@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
@@ -18,6 +19,4 @@ public class UITextControler : MonoBehaviour
     {
         txtLabel = GetComponent<Text>();
     }
-
-
 }
