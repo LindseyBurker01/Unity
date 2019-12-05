@@ -65,8 +65,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Animation\ButtonInput.cs" />
     <Compile Include="Assets\firstClass.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\ApplyForce.cs" />
+=======
+    <Compile Include="Assets\Script\AI\AgentHandler.cs" />
+    <Compile Include="Assets\Script\AI\Movement3D.cs" />
+    <Compile Include="Assets\Script\CodeRoutineScritps\CodeRoutines.cs" />
+    <Compile Include="Assets\Script\CodeRoutineScritps\CodeRoutineClass.cs" />
+    <Compile Include="Assets\Script\AIFoler\AINav.cs" />
+>>>>>>> master
     <Compile Include="Assets\Script\Collectionss\GameArtCollection.cs" />
     <Compile Include="Assets\Script\Collectionss\Lists.cs" />
     <Compile Include="Assets\Script\DataScripts\ClothesData.cs" />
@@ -74,7 +83,11 @@
     <Compile Include="Assets\Script\DataScripts\GameArtData.cs" />
     <Compile Include="Assets\Script\DataScripts\IntData.cs" />
     <Compile Include="Assets\Script\DataScripts\Playerdata.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\DataScripts\Vector3Data.cs" />
+=======
+    <Compile Include="Assets\Script\DataScripts\vactorThreeData.cs" />
+>>>>>>> master
     <Compile Include="Assets\Script\DataScripts\WeaponData.cs" />
     <Compile Include="Assets\Script\Debugies\Debugger.cs" />
     <Compile Include="Assets\Script\Debugies\DebuggerHandler.cs" />
@@ -83,14 +96,23 @@
     <Compile Include="Assets\Script\Flip.cs" />
     <Compile Include="Assets\Script\Forces.cs" />
     <Compile Include="Assets\Script\Functions.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\GameActionHandler.cs" />
     <Compile Include="Assets\Script\GameActionScript.cs" />
+=======
+    <Compile Include="Assets\Script\GameAction.cs" />
+    <Compile Include="Assets\Script\GameActionHandler.cs" />
+>>>>>>> master
     <Compile Include="Assets\Script\IfElseBool.cs" />
     <Compile Include="Assets\Script\IfStatements.cs" />
     <Compile Include="Assets\Script\MonoEvents.cs" />
+    <Compile Include="Assets\Script\MouseEvents.cs" />
     <Compile Include="Assets\Script\Movement.cs" />
     <Compile Include="Assets\Script\PlayerHandler.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Script\RapidFireWeapon.cs" />
+=======
+>>>>>>> master
     <Compile Include="Assets\Script\SelfDestruct.cs" />
     <Compile Include="Assets\Script\TriggerEvent.cs" />
     <Compile Include="Assets\Script\UIImageController.cs" />

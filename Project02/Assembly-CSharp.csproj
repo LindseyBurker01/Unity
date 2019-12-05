@@ -63,9 +63,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Data.cs" />
+    <Compile Include="Assets\Data\Data.cs" />
+    <Compile Include="Assets\Scripts\FloatData.cs" />
+    <Compile Include="Assets\Scripts\List.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\NewBehaviourScript.cs" />
     <Compile Include="Assets\Scripts\OnTrigger.cs" />
+    <Compile Include="Assets\Scripts\TextController.cs" />
+    <Compile Include="Assets\Scripts\UIimageControl.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Lindsey Burker/Desktop/GitKrakenStuff/first/Project02/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
