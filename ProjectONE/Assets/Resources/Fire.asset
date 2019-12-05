@@ -9,9 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e61099d18c8f1b488c8e09228e1f075, type: 3}
-  m_Name: health
+  m_Script: {fileID: 11500000, guid: 642c68ee309c7914ca35b8b640e57fc5, type: 3}
+  m_Name: Fire
   m_EditorClassIdentifier: 
-  value: 1
-  minValue: 0
-  maxValue: 1
